@@ -14,7 +14,7 @@ public class StudentDemo
   private String studentID;
   private String name;
   private String program;
-  private int maxCourses = 4;
+  private int numCourses = 0;
   
   /**
    * A constructor to pass in the given ID and then name
